@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thanosan, An Undergraduate, Faculty of Information Technology, University of Moratuwa.
 - 🌱 I’m currently learning ... Web Development
-- 👀 I’m interested in ...Technology😄
+- 👀 I’m interested in ...MERN
 - 💞️ I’m looking to collaborate on ... React.js
 - 📫 How to reach me ...https://www.linkedin.com/in/thanosan-vigneswaran-66017b215/
 
