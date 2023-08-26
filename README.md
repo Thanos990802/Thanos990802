@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://www.facebook.com/photo/?fbid=3642440345987349&set=a.1469113716653367" align="center" style="width: 100%" />
-</div>  
+ 
   
 
 ### <div align="center">I'm Thanosan, a freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
